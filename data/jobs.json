@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Junior Java Entwickler/in",
+    "url": "jr-java-developer",
+    "time": "Full Time",
+    "experience": "1-2 Jahre Erfahrung",
+    "remote": true,
+    "beschreibung": "We are looking for a Java Developer to join our team. If you have strong experience in building high-performing, scalable, enterprise-grade applications and if you are enthusiastic, proactive and able to work independently with minimal supervision then this might be something interesting for you.",
+    "anforderungen": ["Experience developing web applications in Java", "Experience with Spring Boot, Spring Data / JPA, Java Server Faces, Spring MVC", "Experience with Maven, Git", "Detailed understanding of JPA", "Detailed knowledge of the Spring framework (dependency injection)", "Detailed understanding of transaction management with Spring", "Experience with unit testing (JUnit)"],
+    "niceToHave": ["Basic knowledge of HTML, CSS, JavaScript"]
+  },
+  {
+    "name": "Mid-Level Java Entwickler/in",
+    "url": "md-java-developer",
+    "time": "Full Time",
+    "experience": "3-5 Jahre Erfahrung",
+    "remote": true,
+    "beschreibung": "We are looking for a Java Developer to join our team. If you have strong experience in building high-performing, scalable, enterprise-grade applications and if you are enthusiastic, proactive and able to work independently with minimal supervision then this might be something interesting for you.",
+    "anforderungen": ["Experience developing web applications in Java", "Experience with Spring Boot, Spring Data / JPA, Java Server Faces, Spring MVC", "Experience with Maven, Git", "Detailed understanding of JPA", "Detailed knowledge of the Spring framework (dependency injection)", "Detailed understanding of transaction management with Spring", "Experience with unit testing (JUnit)"],
+    "niceToHave": ["Basic knowledge of HTML, CSS, JavaScript"]
+  },
+  {
+    "name": "Senior Java Entwickler/in",
+    "url": "sr-java-developer",
+    "time": "Full Time",
+    "experience": "ab 6 Jahre Erfahrung",
+    "remote": true,
+    "beschreibung": "We are looking for a Java Developer to join our team. If you have strong experience in building high-performing, scalable, enterprise-grade applications and if you are enthusiastic, proactive and able to work independently with minimal supervision then this might be something interesting for you.",
+    "anforderungen": ["Experience developing web applications in Java", "Experience with Spring Boot, Spring Data / JPA, Java Server Faces, Spring MVC", "Experience with Maven, Git", "Detailed understanding of JPA", "Detailed knowledge of the Spring framework (dependency injection)", "Detailed understanding of transaction management with Spring", "Experience with unit testing (JUnit)"],
+    "niceToHave": ["Basic knowledge of HTML, CSS, JavaScript"]
+  }
+]

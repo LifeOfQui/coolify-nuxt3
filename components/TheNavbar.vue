@@ -22,7 +22,7 @@ onMounted(() => {
 <template>
   <header ref="navEl" :class="{sticking: navHasScrolled}">
     <div class="nav-content">
-      <NuxtLink class="logo" to="/">
+      <NuxtLink class="logo" to="/karriere">
         <img
           v-show="navHasScrolled"
           width="1810"
@@ -60,30 +60,6 @@ onMounted(() => {
 </template>
 
 <style lang="less" scoped>
-:root {
-  --primaryColor: #004884;
-  --secondaryColor: #105da6;
-  --tertiaryColor: #2E92FA;
-  --overlayBackgroundColor: rgba(0, 72, 132, 0.6);
-  --overlayBackgroundColorTransparent: rgba(0, 72, 132, 0.2);
-  --bodyBackgroundColor: #F7F8F8;
-  --footerBackgroundColor: #1E416E;
-  --cardShadow: #1E416E29;
-  --lightColor: #ffffff;
-  --darkColor: #000000;
-
-  --sideSpace: 8vw;
-  --topSpace: 124px;
-  --bottomSpace: 124px;
-
-  --maxWidth: 1200px;
-
-  @media(max-width: 600px) {
-    --topSpace: 64px;
-    --bottomSpace: 64px;
-  }
-}
-
 header {
   width: 100%;
   top: 0;
@@ -91,6 +67,7 @@ header {
   z-index: 3;
   padding: 11px var(--sideSpace) 10px;
   transition: background-color .3s ease-in-out;
+  background-color: #1e416e;
 
   &.sticking{
     background-color: var(--lightColor);
